@@ -3838,14 +3838,14 @@
     ]
   },
   {
-    "name": "tab",
-    "enable": "Content",
+    "name": "i18n.Tab",
+    "enable": "tabTitle",
     "settings": [
       {
         "type": "text",
-        "id": "title",
-        "label": "Title",
-        "default": ""
+        "id": "tab_title",
+        "label": "i18n.Title",
+        "default": "Description"
      }
     ]
   }
